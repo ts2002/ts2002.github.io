@@ -12,7 +12,7 @@ Jake:
 
 <img src="https://i.imgur.com/vuiIGg2.jpeg" alt="Jake" width="200"/>
 
-In my free time I like reading, programming, video games and spending time outdoors. 
+In my free time I like reading, drawing, video games and spending time outdoors. 
 
 ## Data Projects
 I am involved with two research labs on W&M's campus, AidData and GeoLab.

@@ -31,4 +31,7 @@ My first semester with geoLab I researched and helped implement tools to summari
 
 I am interested in combining software engineering and machine learning to help create easy to use tools. In the field of machine learning, I am particularly interested in feature engineering and how it can improve models. I also enjoy data analysis and creating visualizations. 
 
+## AAML Homework:
+
+1. [Here is a link to my HW2 jupyter notebook file][HW2/Liegel_HW2.ipynb]
 
